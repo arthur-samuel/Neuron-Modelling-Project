@@ -1,4 +1,4 @@
-" #Neuron Modelling Project"
+#" Neuron Modelling Project"
 
 The Hodgkin-Huxley model, a venerable tool in computational neuroscience, serves as our conduit to understanding the intricate dynamics of neuronal membrane voltage.
 This project documents a comprehensive exploration involving the implementation, calibration, and automatic recalibration of the Hodgkin-Huxley model.
